@@ -1,6 +1,6 @@
 # CzechBIAS
 
-CzechBIAS is Czech BioImage Analysis Society
+CzechBIAS is Czech BioImage Analysis Society. Web pages: [czechbias.github.io/](https://czechbias.github.io/)
 
 ## Usage
 
