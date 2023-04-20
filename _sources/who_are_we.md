@@ -7,8 +7,14 @@ We are just starting at the moment, but we will be happy for more members. If yo
 ## Martin Schätz
  - ORCID: [0000-0003-0931-4017](https://orcid.org/0000-0003-0931-4017)
  - GitHub: [martinschatz-cz](https://github.com/martinschatz-cz)
+ - Twitter: [@SchatzCZ](https://twitter.com/schatzcz)
  - Web Pages: [schaetz.cz](https://www.schaetz.cz/)
+ - Home Facility: Viničná Microscopy Core Facility, Charles University
 
 BioImage Analyst at Viničná Microscopy Core Factility ([VMCF](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)), Faculty of Science, Charles University
 
 Assistant Professor at Department of Mathematics, Informatics, and Cybernetics, University of Chemistry and Technology in Prague
+
+## Zuzana Burdíková
+ - Twitter: [@BurdikovaZuzana]([https://twitter.com/schatzcz](https://twitter.com/BurdikovaZuzana))
+ - Home Facility: Viničná Microscopy Core Facility [VMCF](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en), Charles University
