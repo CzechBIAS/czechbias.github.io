@@ -1,3 +1,5 @@
 # Contacts
 
-At the moment we do not have a unified email address, but you can get more info by email from *martin(at)schaetz.cz*.
+You can contact us through *czechbias(at)googlegroups.com*. 
+
+You can add yourself to our mail group through: [https://groups.google.com/g/czechbias](https://groups.google.com/g/czechbias)
