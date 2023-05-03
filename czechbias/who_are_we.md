@@ -16,5 +16,21 @@ BioImage Analyst at Viničná Microscopy Core Factility ([VMCF](https://www.natu
 Assistant Professor at Department of Mathematics, Informatics, and Cybernetics, University of Chemistry and Technology in Prague
 
 ## Zuzana Burdíková
- - Twitter: [@BurdikovaZuzana]([https://twitter.com/schatzcz](https://twitter.com/BurdikovaZuzana))
+ - Twitter: [@BurdikovaZuzana](https://twitter.com/BurdikovaZuzana)
  - Home Facility: Viničná Microscopy Core Facility [VMCF](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en), Charles University
+
+## Daniel Hadraba
+- ORCID: [0000-0001-8745-1258](https://orcid.org/0000-0001-8745-1258)
+- Home Facility: [Fyziologický ústav AV ČR](https://www.fgu.cas.cz/departments/biomatematika)
+
+## Wojciech Jesionek
+- Home Facility: [CEITEC MU](https://www.ceitec.cz/wojciech-krzysztof-jesionek-m-sc-ph-d/u93066?page=publication)
+
+## Zuzana Čočková
+- Home Facility: Imaging Methods Core Facility [IMCF BIOCEV](https://imcf.natur.cuni.cz/IMCF/team/)
+
+## Anna Agafonova
+- Home Facility: Imaging Methods Core Facility [IMCF BIOCEV](https://imcf.natur.cuni.cz/IMCF/team/)
+
+## Jakub Soukup
+- Home Facility: Viničná Microscopy Core Facility [VMCF](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en), Charles University
