@@ -4,12 +4,13 @@ The Czech BioImage Analysts’ Society (**CzechBIAS**) is a freely formed societ
 
 This is a community effort driven by all members, with flexible degrees of involvement: If there is something you would like to see done, the fastest way may well be to just do it.
 
-## Our goals:
+## Why we exist:
 
 * Provide space for Czech BioImage Analysts to exchange experience through online meetings.
 * Provide a space to discuss BioImage Analysis (BIAS) approaches, workflows, and tools, ...
-* Discuss and consider cooperative projects, workshops and other activities.
+* Discuss, share, and consider cooperative projects, workshops, lectures, and other activities.
 * Accumulate the experience and needs of BIAS users (from core facilities and/or through collaborative projects).
+* Define the role of bioimage analysts.
 
 ## Is it for me?
 
