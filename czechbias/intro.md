@@ -1,18 +1,20 @@
 # Welcome to CzechBIAS pages
 
-The CzechBIAS is a freely formed society for anyone interested in BioImage Analysis, with the aim to associate BioImage Analysts so they can discuss and share experiences and tools. It was created in 2023 with the ideology of NEUBIAS and its successor in mind.
+The Czech BioImage Analysts’ Society (**CzechBIAS**) is a freely formed society for anyone interested in BioImage Analysis. Its aim is to associate BioImage Analysts so they can discuss and share experiences and tools. It was created in 2023 with the ideology of [NEUBIAS](https://eubias.org/NEUBIAS/) and its successor in mind, and [SwissBIAS](https://swissbias.github.io/) as an inspiration.
 
-## Our goals:
+This is a community effort driven by all members, with flexible degrees of involvement: If there is something you would like to see done, the fastest way may well be to just do it.
 
-* Provide space for Czech BioImage Analyst to exchange experience through online meetings.
-* Provide safe space to discuss BioImage Analysis (BIAS) approaches, workflows, tools, ...
-* Discuss and consider the possibility to provide "Letter of support for BIAS" from core facilities.
-* Discuss and consider cooperative projects, workshops and other activities.
-* Accumulate experience and needs of BIAS users (from core facilites and/or through collaborative projects).
+## Why we exist:
+
+* Provide space for Czech BioImage Analysts to exchange experience through online meetings.
+* Provide a space to discuss BioImage Analysis (BIAS) approaches, workflows, and tools, ...
+* Discuss, share, and consider cooperative projects, workshops, lectures, and other activities.
+* Accumulate the experience and needs of BIAS users (from core facilities and/or through collaborative projects).
+* Define the role of bioimage analysts.
 
 ## Is it for me?
 
-Anyone interested in exchange of experience and/or having the desire to learn about BioImage Analysis is more than welcomed! Check the contact page or memeber part to learn about who we are and how to contact us.
+Anyone interested in the exchange of experience and/or having the desire to learn about BioImage Analysis is more than welcome! Check the contact page or member part to learn about who we are and how to contact us.
 
 
 ```{tableofcontents}
