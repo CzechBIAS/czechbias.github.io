@@ -36,5 +36,5 @@ Assistant Professor at the Department of Mathematics, Informatics, and Cyberneti
 - Home Facility: Viničná Microscopy Core Facility [VMCF](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en), Charles University
 
 ## Sofie Kolibová
- - ORCID: [](https://orcid.org/)
+ - ORCID: [0000-0002-4216-8181](https://orcid.org/0000-0002-4216-8181)
  - Twitter: [@SKolibova](https://twitter.com/SKolibova) 
