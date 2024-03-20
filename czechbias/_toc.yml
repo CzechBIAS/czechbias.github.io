@@ -6,3 +6,9 @@ root: intro
 chapters:
 - file: who_are_we
 - file: contacts
+- file: community_resources
+  sections:
+  - file: resources/events
+  - file: resources/jobs
+  - file: resources/training
+  - file: resources/tools
