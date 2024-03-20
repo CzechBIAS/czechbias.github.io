@@ -13,6 +13,10 @@ This is a community effort driven by all members, with flexible degrees of invol
 * Define the role of bioimage analysts.
 * Track and promote workshops, courses, and events for our members and anyone interested.
 
+## Community Resources
+
+Check out [events](./resources/events), [tools](resources/tools), [jobs](resources/jobs) and [training](resources/training) that is shared by community wordwide. Or contribute and share yours through [here](https://microscopydb.io/#contribute).
+
 ## Is it for me?
 
 Anyone interested in the exchange of experience and/or having the desire to learn about BioImage Analysis is more than welcome! Check the contact page or member part to learn about who we are and how to contact us.
