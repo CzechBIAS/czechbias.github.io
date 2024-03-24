@@ -1,5 +1,5 @@
 # Events
-![MicroscopyDB logo](../images/microsocpyDB_logo-black.png)
+[![MicroscopyDB logo](../images/microsocpyDB_logo-black.png)](https://microscopydb.io)
 
 Below is a non-exhaustive, searchable, list of Events for the imaging community!  
 

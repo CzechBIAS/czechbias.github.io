@@ -1,5 +1,5 @@
 # Community Resources
-![MicroscopyDB logo](./images/microsocpyDB_logo-black.png)
+[![MicroscopyDB logo](./images/microsocpyDB_logo-black.png)](https://microscopydb.io)
 
 Community Resources are brought to you by a partnership with MicroscopyDB
 
