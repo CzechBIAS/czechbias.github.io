@@ -14,7 +14,7 @@ This is a community effort driven by all members, with flexible degrees of invol
 * Track and promote workshops, courses, and events for our members and anyone interested.
 
 ## Community Resources
-<img src="https://czechbias.github.io/_images/microsocpyDB_logo-black.png" width="200">
+[<img src="https://czechbias.github.io/_images/microsocpyDB_logo-black.png" width="200">](https://microscopydb.io)
 
 Check out [events](./resources/events), [tools](resources/tools), [jobs](resources/jobs) and [training](resources/training) that is shared by community wordwide. Or contribute and share yours in the database [here](https://microscopydb.io/#add).
 
