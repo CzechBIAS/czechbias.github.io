@@ -1,9 +1,8 @@
 # Community Resources
 [![MicroscopyDB logo](./images/microsocpyDB_logo-black.png)](https://microscopydb.io)
 
-Community Resources are brought to you by a partnership with MicroscopyDB
-
-Below is a non-exhaustive, searchable, list of Events, Jobs, Tools, Training and Education Resources for the imaging community!  
+Below are the Events, Jobs, Tools, Training and Education database powered by [MicroscopyDB](https://microscopydb.io)! 
+If you have events, tools, training/education resources, or jobs to share, [please add them to the relevant MicroscopyDB databases](https://microscopydb.io/#add).
 
 ::::{grid}
 
@@ -29,4 +28,4 @@ Instructions, CAD and more, fro Microscopy tools and widgets
 Contribute to any section of MicroscopyDB [here](https://microscopydb.io/#contribute).
 
 ## Community Partners
-A list of all current MicroscopyDB partners that are contributing to this content can be found at [https://microscopydb.io/who-we-are/#partners](https://microscopydb.io/who-we-are/#partners).
+A list of all current MicroscopyDB partners can be found at [https://microscopydb.io/who-we-are/#partners](https://microscopydb.io/who-we-are/#partners).
