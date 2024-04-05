@@ -1,9 +1,9 @@
 # Events
 [![MicroscopyDB logo](../images/microsocpyDB_logo-black.png)](https://microscopydb.io)
 
-Below are the Events database powered by [MicroscopyDB](https://microscopydb.io)! 
+Below is the Events database powered by [MicroscopyDB](https://microscopydb.io)! 
 
-If you have events, tools, training/education resources, or jobs to share, [please add them to the relevant MicroscopyDB databases](https://microscopydb.io/#add). *If there is an error, please notify [contact@microscopydb.io](mailto:contact@microscopydb.io).*
+If you have events, tools, training/education resources, or jobs to share, [please add them to the relevant MicroscopyDB databases](https://microscopydb.io/#add). 
 
 ## Courses/Workshops
 ````{div} full-width
